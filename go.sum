@@ -1,0 +1,6 @@
+github.com/codemodify/systemkit-logging v1.8.4 h1:nkbj0VpnRnpI4PE4w9HNUv/ySO3A/1Y9LVeT9j+ZvGM=
+github.com/codemodify/systemkit-logging v1.8.4/go.mod h1:29Zc9P/MnY2bgenJU9aoDszUef+Xf40b3ajtusTBC1Q=
+github.com/codemodify/systemkit-service-spec v1.0.1 h1:UHg60PsR+2blb9kqE3j+pJbHhUys6j+mQ8QprxrytBg=
+github.com/codemodify/systemkit-service-spec v1.0.1/go.mod h1:/GURRGinl4NxbiK+mi9RIkrsXhNkjfIaIOma5SWF4nM=
+github.com/groob/plist v0.0.0-20200425180238-0f631f258c01 h1:0T3XGXebqLj7zSVLng9wX9axQzTEnvj/h6eT7iLfUas=
+github.com/groob/plist v0.0.0-20200425180238-0f631f258c01/go.mod h1:itkABA+w2cw7x5nYUS/pLRef6ludkZKOigbROmCTaFw=
