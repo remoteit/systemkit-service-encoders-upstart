@@ -1,8 +1,4 @@
-github.com/remoteit/systemkit-logging v1.8.5 h1:Fd462u1+hU8Pvogg6p1ZC1Iyws4XoY1CIyJyg+hTji8=
-github.com/remoteit/systemkit-logging v1.8.5/go.mod h1:ZTjBv0PVNAIE+9cW1S5lJrz2hMMP9sRTtZCfhRsxJ/c=
 github.com/remoteit/systemkit-logging v1.8.6 h1:vpM55Ft5/A5FcWR9JqjIyR5517WLlPNEfkvnuJrm5ic=
 github.com/remoteit/systemkit-logging v1.8.6/go.mod h1:UIXArHbQPsiyx/2STjyxYmqOtPhF8j0GwGTIay1FjMk=
-github.com/remoteit/systemkit-service-spec v1.0.2 h1:ZvQihcxtDGKkQzlFpnUMlYGeObbQtbpS8uop7w6sjhw=
-github.com/remoteit/systemkit-service-spec v1.0.2/go.mod h1:v9kpzYh0Z+74Bz5rCW0/qTEQUIY/eWBnkBTHFEimO9o=
 github.com/remoteit/systemkit-service-spec v1.0.3 h1:ex3LMZn82B43jWtveVvHnV3Axp3Bs7NredIJ+POTTro=
 github.com/remoteit/systemkit-service-spec v1.0.3/go.mod h1:1tQYLwDSBo3T5fUUEZw86o8Qji4sWvTYoDu0jfV464E=
